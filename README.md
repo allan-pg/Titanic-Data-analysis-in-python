@@ -4,6 +4,12 @@
 
 # Introduction
 
+## Tools Used
+- Pandas
+- Seaborn
+- Matplotlib
+- Linear Regression
+- Numpy
 ## 1.1 import python libraries 
 ```
 import numpy as np
