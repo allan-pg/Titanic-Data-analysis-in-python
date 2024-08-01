@@ -1,5 +1,6 @@
 # Titanic Data Analysis in Python
-![image](https://github.com/user-attachments/assets/e614f4bf-5a5d-423b-8a75-1b0c68bae942)
+![image](https://github.com/user-attachments/assets/07a38ef2-021a-4843-b5e0-11c7ea4e4c50)
+
 
 # Introduction
 
