@@ -29,8 +29,9 @@ dataset.head(2)
 ```
 dataset.info()
 ```
+```
 ![image](https://github.com/user-attachments/assets/33444591-75df-4426-865b-7d2aef7734ed)
-
+```
 - The dataset has 1309 columns and their data types have been defined
 
 ## Copy your dataframe so as to remain with an original copy 
