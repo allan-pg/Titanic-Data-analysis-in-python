@@ -1,4 +1,4 @@
-# Titanic Data Analysis in Python
+# Titanic Data Analysis in Python and Dashboard in Excel
 ![image](https://github.com/user-attachments/assets/07a38ef2-021a-4843-b5e0-11c7ea4e4c50)
 
 
