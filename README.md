@@ -34,7 +34,7 @@ dataset.info()
 
 - The dataset has 1309 columns and their data types have been defined
 
-## Copy your dataframe so as to remain with an original copy 
+***Copy your dataframe so as to remain with an original copy***
 ```
 df = dataset.copy()
 ```
