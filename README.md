@@ -10,6 +10,7 @@
 - Matplotlib
 - Linear Regression
 - Numpy
+- Power Bi - Creating Dashboard
 ## 1.1 import python libraries 
 ```
 import numpy as np
@@ -185,6 +186,13 @@ plt.show(
 ```
 - I used a point plot to show age distribution per class
 
-# Excel Titanic Dashboard
+# Power BI Titanic Dashboard
+![image](https://github.com/user-attachments/assets/d79430ee-56d7-45a9-a942-8a8338a7f24a)
 
+## Steps applied
+1. Business Requirements
+2. Data Connection
+3. Data Cleaning
+4. Data Modelling
+5. DashBoard Development
 
