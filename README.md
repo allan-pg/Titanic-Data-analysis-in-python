@@ -1,4 +1,4 @@
-# Titanic Data Analysis in Python and Dashboard in Excel
+# Titanic Data Analysis in Python
 ![image](https://github.com/user-attachments/assets/07a38ef2-021a-4843-b5e0-11c7ea4e4c50)
 
 
@@ -10,7 +10,7 @@
 - Matplotlib
 - Linear Regression
 - Numpy
-- Power Bi - Creating Dashboard
+
 ## 1.1 import python libraries 
 ```
 import numpy as np
@@ -186,13 +186,5 @@ plt.show(
 ```
 - I used a point plot to show age distribution per class
 
-# Power BI Titanic Dashboard
-![image](https://github.com/user-attachments/assets/d79430ee-56d7-45a9-a942-8a8338a7f24a)
 
-## Steps applied
-1. Business Requirements
-2. Data Connection
-3. Data Cleaning
-4. Data Modelling
-5. DashBoard Development
 
